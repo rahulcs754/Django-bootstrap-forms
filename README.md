@@ -1,5 +1,5 @@
 <div align="center"><h1> Django Bootstrap forms </h1> </div>
-<div align="center"> In this repo, I will show you how to add bootstrap forms in django project. <a href="https://bootstrapsubmitform.herokuapp.com/"> Online link </a> </div>
+<div align="center"> In this repo, I will show you how to add bootstrap forms in django project. <a href="https://bootstrapsubmitform.herokuapp.com/" target="_blank"> Online link </a> </div>
 
 
 Usage
